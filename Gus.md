@@ -1,3 +1,3 @@
-#Gus is Awesome
+# Gus is Awesome
 
-he really is super cool and pretty sweet
+## he really is super cool and pretty sweet
